@@ -14,6 +14,7 @@ const App = () => {
                     <li><a href="#">About</a></li>
                     <li><a href="#">Contracts</a></li>
                     <li><a href="#">Contact</a></li>
+                    <li><a href="#">Sign in</a></li>
                 </ul>
             </div>
             <CustomTable />
